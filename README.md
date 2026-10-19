@@ -42,3 +42,4 @@ Page faults, hits, fault rate = faults / references, hit rate = 1 - fault rate.
 ## Adding an algorithm
 Write `def myalgo(refs, n) -> SimResult` in `algorithms.py` and register it in
 the `ALGORITHMS` dict.
+# Page-Replacement-Algorithm-Simulator
